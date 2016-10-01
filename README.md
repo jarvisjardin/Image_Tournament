@@ -4,3 +4,9 @@ This project is a web application that implements a custom tournament feature. U
 
 Purpose:
 - Can use to determine 'ultimate' favorite in a category (dog breeds, cat breeds, food, etc).
+
+Technologies used:
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
